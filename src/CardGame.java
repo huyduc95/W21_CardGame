@@ -63,5 +63,8 @@ public class CardGame {
 
         System.out.println(response);
     }
+    public static void printInfo(){
+        System.out.println("My name is Huy");
+    }
 
 }
